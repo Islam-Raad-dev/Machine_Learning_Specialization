@@ -15,17 +15,17 @@ The learning workflow follows an intuitive, engineering-driven cycle:
 
 ## 🧠 What I’m Learning
 
-### Week 1: Supervised Machine Learning: Regression and Classification
+### Course 1: Supervised Machine Learning: Regression and Classification
 * **Linear & Logistic Regression:** Building prediction models for continuous values and binary classification.
 * **Optimization:** Mastered Gradient Descent algorithms and cost function minimization.
 * **Regularization:** Applying $L_1$ and $L_2$ regularization techniques to prevent model overfitting.
 
-### Week 2: Advanced Learning Algorithms
+### Course 2: Advanced Learning Algorithms
 * **Neural Networks:** Architecting and training dense multi-layer networks using TensorFlow.
 * **Tree-Based Models:** Building Decision Trees, Random Forests, and XGBoost Ensembles for tabular data.
 * **Practical Machine Learning:** Diagnosing system performance, selecting metrics, and structuring development loops.
 
-### Week 3: Unsupervised Learning, Recommenders, & Reinforcement Learning
+### Course 3: Unsupervised Learning, Recommenders, & Reinforcement Learning
 * **Unsupervised Architectures:** Implementing $K$-means clustering and Density Estimation for Anomaly Detection.
 * **Recommendation Engines:** Developing Collaborative Filtering and Content-Based filtering systems.
 * **Reinforcement Learning:** Formulating Markov Decision Processes and building Deep $Q$-Networks (DQN).
