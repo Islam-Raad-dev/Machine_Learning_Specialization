@@ -34,7 +34,7 @@ The learning workflow follows an intuitive, engineering-driven cycle:
 * **Languages:** Python
 * **ML/DL Frameworks:** TensorFlow, XGBoost
 * **Data Processing & Math:** NumPy, Pandas, Scikit-learn
-
+                                                                                      
 ## 🎓 Certification Goal
 By completing this specialization, I verify my technical capacity to:
 * Formulate and train supervised and unsupervised machine learning models from scratch.
