@@ -32,7 +32,7 @@ The learning workflow follows an intuitive, engineering-driven cycle:
 
 ## 🛠️ Technologies Used
 * **Languages:** Python
-* **ML/DL Frameworks:** TensorFlow, XGBoost
+* **ML/DL Frameworks:** TensorFlow, XGBoost     
 * **Data Processing & Math:** NumPy, Pandas, Scikit-learn
                                                                                       
 ## 🎓 Certification Goal
