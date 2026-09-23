@@ -11,7 +11,7 @@ The learning workflow follows an intuitive, engineering-driven cycle:
 1. **Mathematical & Visual Intuition:** Grasping gradient descent, cost functions, and decision boundaries conceptually before writing code.
 2. **Algorithmic Implementation:** Translating mathematical models into vectorised Python scripts using core frameworks.
 3. **Model Evaluation & Tuning:** Applying regularization, diagnosing bias/variance, and refining performance.
-4. **End-to-End Application:** Building robust models for real-world tasks like anomaly detection, recommendation systems, and reinforcement learning.
+4. **End-to-End Application:** Building robust models for real-world tasks like anomaly detection, recommendation systems, and reinforcement learning.         
 
 ## 🧠 What I’m Learning
 
